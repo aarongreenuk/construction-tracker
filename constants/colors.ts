@@ -1,0 +1,17 @@
+export default {
+  primary: '#4A90E2',
+  secondary: '#6FCF97',
+  background: '#F8F9FA',
+  card: '#FFFFFF',
+  text: '#333333',
+  textSecondary: '#6B7280',
+  border: '#E5E7EB',
+  success: '#34C759',
+  warning: '#FF9500',
+  danger: '#FF3B30',
+  progressBar: '#4A90E2',
+  progressBarBackground: '#E5E7EB',
+  ahead: '#34C759',
+  behind: '#FF3B30',
+  onSchedule: '#FF9500',
+};
